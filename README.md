@@ -4,6 +4,9 @@
 <html>
 <head>
 	<title>Hotmail</title>
+	<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	<link rel="stylesheet" type="text/css" href="css/fontello.css">
+	<link rel="icon" href="img/logo.jpg">
 	<style>
 img[src*=""] {
     display: none;
